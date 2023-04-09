@@ -7,3 +7,4 @@ function calculateSolarPower() {
     
     document.getElementById("result").innerHTML = "Total Solar Power Generated: " + totalPower + " Watt-hours per day";
   }
+// code by vinay
